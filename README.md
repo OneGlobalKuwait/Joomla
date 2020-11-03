@@ -7,4 +7,4 @@ Integrating your Joomla VirtueMart store with Og Checkout services allows you to
 -Joomla v3x with VirtueMart v3x
 
 # Extension Setup Guide
-Visit https://checkoutdocs.oneglobal.com/plugins-setup-guide/opencart
+Visit https://checkoutdocs.oneglobal.com/plugins-setup-guide/joomla
